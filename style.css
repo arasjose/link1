@@ -6538,22 +6538,54 @@ section #book1.contactForm {
     margin-left: 2%;
 }
 
-
-
-
-
 }
 
-@media screen and (min-height:  890px),
-screen and (max-width:  414px) {
 
 
-    .contactinfo{
-        margin-top: 0;
+
+
+
+
+@media screen 
+and (max-width: 414px)
+and (max-height: 896px){
+
+
+    #pricing{
     }
 
+    section.sectionslid{
+    }
 
+    section #book1.contactForm{
+        margin-top: 10%;
+    }
 }
+
+
+@media screen 
+and (max-width: 414px)
+and (max-height: 736px){
+
+    #bookhome{
+        margin-top: 5%;
+    }
+
+    #pricing{
+
+    }
+
+    section.sectionslid{
+    }
+
+    section #book1.contactForm{
+        margin-top: -5%;
+    }
+}
+
+
+
+
 
 
 
