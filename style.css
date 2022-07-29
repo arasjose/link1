@@ -6584,6 +6584,9 @@ margin-left: 9.5%;    }
         margin-top: -14%;
     }
 
+.popop{
+    margin-top: 8%;
+}
 
 }
 
@@ -6614,6 +6617,11 @@ and (max-height: 736px){
     .headingppp{
         margin-top: 15%;
     }
+
+    .popop{
+        top: 55%;
+    }
+
 }
 
 
